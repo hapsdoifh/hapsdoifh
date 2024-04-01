@@ -5,5 +5,5 @@
 <h4>I'm a undergraduate student studying at the University of Waterloo<h4>
 <h4>I'm studying in the Electrical Engineering Honors program<h5>
 <h4>For now I program mostly in C, C++ and Python<h4>
-<p>I've created a few repository to experiment with concepts I've learned and projects I'm interested in</p>
+<p>I've created a few repositories to experiment with concepts I've learned and projects I'm interested in</p>
 
